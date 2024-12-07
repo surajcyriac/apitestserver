@@ -1,0 +1,18 @@
+{
+  "allemp": [
+    {
+      "username": "sasaas",
+      "email": "surajcyriac@gmail.com",
+      "age": "12",
+      "status": "active",
+      "id": "a136"
+    },
+    {
+      "id": "61aa",
+      "username": "suraj",
+      "email": "surajcyriac@gmail.com",
+      "age": "12",
+      "status": "inactive"
+    }
+  ]
+}
